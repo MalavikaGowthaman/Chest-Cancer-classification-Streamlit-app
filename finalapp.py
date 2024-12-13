@@ -28,7 +28,7 @@ def predict(image):
     return predicted_class
 
 # Convert the background image to base64
-background_image_path = "D:\HOPE\Projects\Chest cancer classification\End-to-End-Chest-Cancer-Classification\img1.jpg"  # Replace with your image path
+background_image_path = "img1.jpg"  # Replace with your image path
 background_image_base64 = get_base64_image(background_image_path)
 
 # Custom CSS for background image
