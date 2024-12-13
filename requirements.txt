@@ -17,7 +17,7 @@ scipy
 Flask
 Flask-Cors
 streamlit==1.18.1
-streamlit altair
+streamlit-altair
 
 
 
